@@ -3,7 +3,7 @@
     "/content/xcom-site/:/",
     "/content/xcom-site/configuration:/.helix/config.json",
     "/content/xcom-site/headers:/.helix/headers.json",
-    "/content/xcom-site/metadata:/metadata.json",
+    "/content/xcom-site/metadata:/metadata.json"
   ],
   "includes": [
     "/content/xcom-site/"
