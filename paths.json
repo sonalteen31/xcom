@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/xcom-site/:/",
-    "/content/xcom-site/configuration:/.helix/config.json",
-    "/content/xcom-site/headers:/.helix/headers.json",
-    "/content/xcom-site/metadata:/metadata.json"
+    "/content/xcom/:/",
+    "/content/xcom/configuration:/.helix/config.json",
+    "/content/xcom/headers:/.helix/headers.json",
+    "/content/xcom/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xcom-site/"
+    "/content/xcom/"
   ]
 }
